@@ -1,0 +1,4 @@
+Method,Outlier Count,Inlier Count
+Isolation Forest,113,2133
+DBSCAN,10,2236
+One-Class SVM,112,2134
