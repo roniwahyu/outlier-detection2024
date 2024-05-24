@@ -1,0 +1,3 @@
+Set,Samples,Features,Target samples,Test Size
+Training,1134,26,1134,0.25
+Testing,378,26,378,0.25
