@@ -1,0 +1,6 @@
+Method,Outliers,Non-Outliers
+Isolation Forest,113,2133
+DBSCAN,10,2236
+One-Class SVM,112,2134
+Hard Voting,165,2081
+Soft Voting,734,1512
