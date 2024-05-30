@@ -1,0 +1,13 @@
+Method,Count Inliers,Count Outliers,Count Unidentified,Total Number
+if,2021,225,0,2246
+lof,2072,174,0,2246
+ocsvm,2022,224,0,2246
+elliptic,2021,225,0,2246
+hbos,2197,49,0,2246
+dbscan,2157,89,0,2246
+mahalanobis,2021,225,0,2246
+iqr,1995,251,0,2246
+zscore,2214,32,0,2246
+tukey,1995,251,0,2246
+optics,1734,512,0,2246
+cblof,2021,225,0,2246
