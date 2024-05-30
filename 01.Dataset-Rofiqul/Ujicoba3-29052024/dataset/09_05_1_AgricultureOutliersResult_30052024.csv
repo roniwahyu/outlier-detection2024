@@ -1,4 +1,4 @@
-Date,Year,Experiment,DataUse,Replication,Month,Vegetation,VegType,N2O,N_rate,PP2,PP7,AirT,DAF_TD,DAF_SD,WFPS25cm,NH4,NO3,Clay,Sand,SOM,IF_Outlier,LOF_Outlier,OCSVM_Outlier,Elliptic_Outlier,HBOS_Outlier,DBSCAN_Outlier,Mahalanobis_Distance,Mahalanobis_Outlier,Majority_Voting
+Date,Year,Experiment,DataUse,Replication,Month,Vegetation,VegType,N2O,N_rate,PP2,PP7,AirT,DAF_TD,DAF_SD,WFPS25cm,NH4,NO3,Clay,Sand,SOM,if_outlier,lof_outlier,ocsvm_outlier,elliptic_outlier,hbos_outlier,dbscan_outlier,mahalanobis_distance,mahalanobis_outlier,majority_voting
 2/9/12,2012,BCSE_KBS,Building,R1,February,Corn,Annual,3.896741682,170,0.0,0.0,-2.0,276,241,0.666508316,11.04634,22.940812,62.5,637.5,1.174072,1,1,1,1,0,0,0.12538038746696328,0,1
 2/10/12,2012,BCSE_KBS,Building,R1,February,Corn,Annual,2.190217677,170,0.0,0.0,-2.4,277,242,0.640607951,11.008087,22.959578,62.5,637.5,1.174072,1,1,1,1,0,0,0.1852831046894853,0,1
 2/18/12,2012,BCSE_KBS,Building,R1,February,Corn,Annual,3.542594407,170,3.3,8.64,0.3,285,250,0.728085401,10.831669,23.221928,62.5,637.5,1.174072,1,1,1,1,0,0,0.1378117297787591,0,1
