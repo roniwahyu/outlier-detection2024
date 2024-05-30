@@ -21,3 +21,6 @@ seaborn
 #scraping
 selenium
 tweepy
+
+pyod
+xgboost
