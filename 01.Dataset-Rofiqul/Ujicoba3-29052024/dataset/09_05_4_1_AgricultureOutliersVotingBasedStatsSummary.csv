@@ -1,5 +1,0 @@
-if_outlier,lof_outlier,ocsvm_outlier,elliptic_outlier,hbos_outlier,dbscan_outlier,mahalanobis_outlier,cblof_outlier,zscore_outlier,optics_outlier,iqr_outlier,average_voting,weighted_voting,majority_voting
-if_outlier,lof_outlier,ocsvm_outlier,elliptic_outlier,hbos_outlier,dbscan_outlier,mahalanobis_outlier,cblof_outlier,zscore_outlier,optics_outlier,iqr_outlier,average_voting,weighted_voting,majority_voting
-2021,2072,2022,2021,2197,2157,2021,2021,2214,1734,1995,2101,2101,2101
-225,174,224,225,49,89,225,225,32,512,251,145,145,145
-2246,2246,2246,2246,2246,2246,2246,2246,2246,2246,2246,2246,2246,2246
