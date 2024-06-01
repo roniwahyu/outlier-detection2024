@@ -1,0 +1,8 @@
+,Inliers,Outliers,Total
+if_outlier,2021,225,2246
+dbscan_outlier,2157,89,2246
+ocsvm_outlier,2022,224,2246
+average_voting,2072,174,2246
+weighted_voting,2072,174,2246
+majority_voting,2072,174,2246
+hard_voting,2072,174,2246
