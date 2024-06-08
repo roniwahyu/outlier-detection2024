@@ -1,0 +1,6 @@
+,Inliers,Outliers,Total
+if_outlier,2021,225,2246
+lof_outlier,2072,174,2246
+average_voting,2172,74,2246
+weighted_voting,2172,74,2246
+majority_voting,1921,325,2246

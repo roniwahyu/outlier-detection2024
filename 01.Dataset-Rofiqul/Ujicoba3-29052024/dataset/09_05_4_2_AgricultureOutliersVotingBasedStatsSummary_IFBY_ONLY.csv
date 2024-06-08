@@ -1,0 +1,6 @@
+,Inliers,Outliers,Total
+if_outlier,1639,607,2246
+by_outlier,1481,765,2246
+average_voting,1696,550,2246
+weighted_voting,1696,550,2246
+majority_voting,1424,822,2246
