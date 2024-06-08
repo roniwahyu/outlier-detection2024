@@ -1,0 +1,6 @@
+,Inliers,Outliers,Total
+zscore_outlier,2214,32,2246
+iqr_outlier,1995,251,2246
+average_voting,2214,32,2246
+weighted_voting,2214,32,2246
+majority_voting,1995,251,2246
