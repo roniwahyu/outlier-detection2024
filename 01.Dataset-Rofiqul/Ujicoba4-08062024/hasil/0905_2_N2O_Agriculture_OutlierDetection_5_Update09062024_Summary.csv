@@ -1,0 +1,10 @@
+Method,Outliers,Inliers,Total
+iqr,251,1995,2246
+zscore,32,2214,2246
+if,113,2133,2246
+dbscan,37,2209,2246
+ocsvm,112,2134,2246
+lof,113,2133,2246
+gaussianpdf,87,2159,2246
+bgm,113,2133,2246
+nb,42,2204,2246

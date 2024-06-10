@@ -1,0 +1,6 @@
+Method,Outliers,Inliers,Total
+if_lof_outlier,186,2060,2246
+by_lof_outlier,130,2116,2246
+if_by_lof_outlier,57,2189,2246
+ido_outlier,90,2156,2246
+iqr_zscore_outlier,251,1995,2246
