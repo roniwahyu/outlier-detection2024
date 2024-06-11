@@ -4,3 +4,6 @@ by_lof_outlier,130,2116,2246
 if_by_lof_outlier,57,2189,2246
 ido_outlier,90,2156,2246
 iqr_zscore_outlier,251,1995,2246
+if_by_outlier,113,2133,2246
+id_outlier,113,2133,2246
+if_osvm_outlier,135,2111,2246
