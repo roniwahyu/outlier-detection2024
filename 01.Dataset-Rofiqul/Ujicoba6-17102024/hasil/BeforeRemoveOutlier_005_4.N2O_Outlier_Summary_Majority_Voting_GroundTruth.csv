@@ -1,0 +1,5 @@
+Models,Inliers,Outliers
+IF_Outlier,2201,45
+DBSCAN_Outlier,0,36
+OCSVM_Outlier,2201,45
+majority_voting,2191,55
